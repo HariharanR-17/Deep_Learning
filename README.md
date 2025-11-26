@@ -1,5 +1,8 @@
 # Convolutional Neural Networks
 Aim : Predict a person’s age and gender from a face image. <br> <br>
+Models Deployed : <br>
+1. Efficient Net <br>
+2. Custom CNN Model <br> <br>
 Kaggle notebook link : https://www.kaggle.com/code/hariharanr2003/nppe1/notebook <br> 
 Track io logging : https://hariharan1703-dlgenai-nppe.hf.space/ <br> <br>
 <img width="300" height="300" alt="train_loss" src="https://github.com/user-attachments/assets/f42c10fa-122e-4c59-8538-56590d052185" /> &nbsp;
